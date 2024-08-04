@@ -3,6 +3,7 @@
 -- -----------------------------------------------------
 CREATE DATABASE IF NOT EXISTS `sports-center`;
 
+-- Use Database sports-center
 USE `sports-center` ;
 
 -- Drop existing tables if they exist
